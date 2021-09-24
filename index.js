@@ -1,0 +1,1 @@
+window.alert("Bem vindo ao jogo da forca!")
